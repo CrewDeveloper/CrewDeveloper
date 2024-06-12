@@ -1,5 +1,5 @@
 function crewMe() {
-    const crew = "Merhaba ben Yiğit!"
+    const crew = "Merhaba ben Emre!"
 
     console.log(crew);
     console.log(crewUrls());
@@ -8,9 +8,8 @@ function crewMe() {
 crewMe();
 
 function crewUrls() {
-    const oceanBilisim = 'www.oceanbilisim.com.tr';
-    const raxeBot = 'www.raxebot.com.tr';
+    const Dioksit Bilişim = 'www.dioksitbilisim.com.tr';
 
-    console.log(`${oceanBilisim} - ${raxeBot}`);
-    console.log(`Discord username: crew.dev`);
+    console.log(`${DioksitBilisim} - ${diokBot}`);
+    console.log(`Discord username: crew.developer`);
 }
